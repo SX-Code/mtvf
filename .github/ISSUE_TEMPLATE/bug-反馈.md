@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: BUG 反馈
+about: 反馈 APP 使用中遇到的问题
 title: ''
 labels: ''
 assignees: ''
